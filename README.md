@@ -9,4 +9,6 @@
 <li>install these libs with pip install: Pillow transformers diffusers tk customtkinter ftfy</li>
 
 <br><br>
-An image creation takes ~10min depends on your cpu
+An image creation takes ~10min depends on your cpu<br>
+app.py adapted from https://github.com/nicknochnack/StableDiffusionApp (Cuda version)<br>
+you can watch him https://www.youtube.com/watch?v=7xc0Fs3fpCg
