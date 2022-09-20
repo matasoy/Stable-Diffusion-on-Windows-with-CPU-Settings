@@ -1,4 +1,4 @@
-# Stable-Diffusion-on-Windows-with-CPU-Settings
+# Stable Diffusion on Windows with CPU Settings
 <b>Requirements</b><br>
 <ul>
 <li>Create Hugging Face account https://huggingface.co/ </li>
