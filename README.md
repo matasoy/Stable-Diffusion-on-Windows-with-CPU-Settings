@@ -7,7 +7,7 @@ Create image with text prompt using ai (https://stability.ai/)<br><br>
 <li>install Python </li>
 <li>install git </li>
 <li>install pytorch (from pytorch.org, select pip and CPU), </li>
-<li>install these libs with pip install: Pillow transformers diffusers tk customtkinter ftfy</li>
+<li>install these libs with pip install: Pillow transformers diffusers tk customtkinter ftfy ctk</li>
 
 <br><br>
 An image creation takes ~10min depends on your cpu<br>
